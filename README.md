@@ -75,6 +75,39 @@ In the SDCE platform, "Money" cannot buy "Power."
 
  * Your weight is siloed by expertise. If you are an expert in "Payment Protocols," your vote carries massive weight in that sector but minimal weight in "UI Design." This prevents "Amateurs Leading Experts."
 
+
+​In the SDCE platform, resource allocation follows the principle of "Functional Granularity." Projects are not monolithic blocks but a collection of interconnected functional nodes with different risk profiles and activation triggers.
+
+​1. Primary Functional Nodes (The Infrastructure)
+
+​Definition: The core architecture, essential security layers, and fundamental "Digital Right-of-Way" protocols.
+
+​Activation Trigger: Must reach a 200% hashpower staking threshold to initiate. Once activated, the hashpower enters the development cycle and becomes non-refundable.
+
+​Social Compact: These nodes represent the "Foundation." All participants implicitly agree that these components are the non-negotiable prerequisites for the project's existence.
+
+​2. Secondary/Detail Nodes (The Competitive Sandbox)
+
+​Definition: Extended features, domain-specific plugins, or parallel technical solutions (e.g., two competing algorithms, "Method A" and "Method B," for the same payment interface).
+
+​Selective Activation Mechanism:
+​The 200% Eligibility: A detail node only becomes "eligible for consideration" once its specific module reaches the 200% staking threshold.
+
+​Survival of the Fittest (The Vote): Reaching 200% does not guarantee activation. Only nodes that win the Merit-Weighted Vote are officially integrated into the development roadmap.
+
+​Instant Refund for Failed Bids: All hashpower staked in detail nodes that lose the vote is directly and fully refunded to the participants. Energy is only consumed by the winning nodes that move into the active development phase.
+
+​⚖️ Strategic Impact of the Refund Mechanism
+
+​🛡️ Risk Mitigation for Contributors
+
+​This "Refund-on-Loss" policy eliminates the "Fear of Commitment" for innovators. Contributors can stake their energy on bold, cutting-edge sub-features without worrying about losing their resources if the community chooses a different path.
+
+​🎯 Targeted Resource Concentration
+
+​By only activating detail nodes that meet both the 200% threshold AND the Weighted Vote, the platform ensures that social hashpower is never wasted on "Ghost Features" or unpopular bloatware. The ecosystem remains lean, efficient, and physically backed by genuine demand.
+
+
 ⚖️ Legal Defense Addendum
 
 ⚠️ Technical Neutrality & Liability Isolation
@@ -182,6 +215,22 @@ When a corporation fails, the system triggers a legal-technical "Safety Valve":
 2. 專家細分權限 (Domain-Specific Authority)
 
  * 你在「支付協議」領域有實績，你在該領域的投票權重就高；這防止了「外行領導內行」或「數據庫專家決定加密算法」的災難。
+
+​在 SDCE 平台中，專案的能量調度是基於**「功能顆粒化」**的原則。
+
+​1. 主要功能節點 (Primary Functional Nodes)
+​定義：專案的核心架構、必須具備的底層路權協議。
+​啟動條件：必須達到 200% 的算力押注閾值。一旦啟動，算力即進入開發流程，不可撤回。
+​社會合約：這是專案的「地基」，所有參與者默認對此核心達成共識。
+
+​2. 次要（細節）節點 (Secondary/Detail Nodes)
+
+​定義：延伸功能、特定領域的插件、或多種並行的技術解決方案（例如：同一個支付介面的兩種不同算法 A 與 B）。
+​競爭性啟動 (Selective Activation)：
+​200% 門檻：細節節點只有在該特定模組的押注達到 200% 時，才具備「被討論」的資格。
+​投票決定生死：即便達到了 200% 門檻，若在最終的「能力權重投票」中未被選為正式採用的方案，該節點將不會被啟動。
+​即時退還 (Instant Refund)：所有在投票中落選的細節節點，其押注的算力將直接、全額退還給參與者。 只有勝出且正式進入開發流程的節點才會消耗能量。
+
 
 ⚖️ 法律防禦補強 (Legal Defense Addendum)
 
